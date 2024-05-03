@@ -1,7 +1,7 @@
 
 // forEach loop
 
-var myResume = [{
+let myResume = [{
 
 
     personalDetails : {

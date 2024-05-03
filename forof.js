@@ -2,7 +2,7 @@
 // for...of loop
 
 
-var myResume = {
+let myResume = {
 
 
     personalDetails : {
